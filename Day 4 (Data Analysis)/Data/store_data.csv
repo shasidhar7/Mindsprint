@@ -1,0 +1,1001 @@
+Order_ID,Product,Category,Quantity,Price,Total_amount,Date
+1001,HTC Desire V,HTC,52,18,17,11/7/2024
+1002,alcatel OT 525,alcatel,23,57,79,10/17/2024
+1003,Celkon C357,Celkon,93,23,78,9/10/2024
+1004,Fairphone 3,Fairphone,10,50,9,1/24/2025
+1005,Plum Tweek,Plum,9,97,63,2/20/2024
+1006,Micromax X276,Micromax,20,52,74,10/19/2024
+1007,Lenovo ZUK Edge,Lenovo,33,75,76,1/5/2025
+1008,Huawei U7510,Huawei,57,81,69,3/12/2024
+1009,verykool SL5565 Rocket,verykool,41,77,39,7/27/2024
+1010,Acer beTouch E210,Acer,18,30,78,8/18/2024
+1011,Spice QT-58,Spice,95,4,54,2/23/2024
+1012,Motorola One (P30 Play),Motorola,10,19,63,2/1/2025
+1013,ZTE nubia Z17 lite,ZTE,50,75,100,4/18/2024
+1014,Motorola A630,Motorola,88,88,67,11/28/2024
+1015,BLU Hero,BLU,2,69,65,1/7/2025
+1016,Xiaomi Mi 9X,Xiaomi,23,54,32,4/1/2024
+1017,Bird M11,Bird,52,23,54,10/22/2024
+1018,Huawei G7206,Huawei,58,76,74,1/8/2025
+1019,Acer neoTouch P400,Acer,39,74,72,9/2/2024
+1020,LG KE770 Shine,LG,46,62,18,9/25/2024
+1021,Oppo Find X2 Pro,Oppo,7,69,77,10/10/2024
+1022,Huawei MediaPad T1 8.0,Huawei,13,71,59,2/27/2024
+1023,Siemens S45i,Siemens,8,1,10,9/23/2024
+1024,Allview X3 Soul Lite,Allview,25,3,98,5/9/2024
+1025,Samsung Galaxy Note T879,Samsung,9,18,58,8/15/2024
+1026,Xiaomi Redmi Y1 Lite,Xiaomi,77,88,83,4/28/2024
+1027,Samsung Galaxy Ace NXT,Samsung,9,25,100,12/7/2024
+1028,Celkon A95,Celkon,41,29,78,10/29/2024
+1029,BLU Studio Pro,BLU,57,95,21,4/29/2024
+1030,Icemobile Prime 5.0 Plus,Icemobile,25,47,92,3/4/2024
+1031,LG Cosmos 2,LG,57,87,7,10/1/2024
+1032,HP Slate6 VoiceTab,HP,88,80,85,8/14/2024
+1033,Allview Viva H8,Allview,43,35,28,10/7/2024
+1034,Huawei MediaPad T3 8.0,Huawei,42,8,28,10/6/2024
+1035,Motorola RIZR Z8,Motorola,95,65,38,5/16/2024
+1036,Micromax X114,Micromax,83,21,43,10/28/2024
+1037,Lenovo Tab 4 10 Plus,Lenovo,70,24,99,11/26/2024
+1038,Prestigio MultiPhone 4055 Duo,Prestigio,5,69,81,4/20/2024
+1039,Ulefone Armor X7 Pro,Ulefone,51,19,28,6/17/2024
+1040,Samsung S9402 Ego,Samsung,47,40,11,3/15/2024
+1041,NEC e313,NEC,13,48,5,1/14/2025
+1042,alcatel Fierce,alcatel,58,32,23,6/23/2024
+1043,LeEco Le 1s,LeEco,44,37,58,8/18/2024
+1044,Samsung Galaxy Y Pro B5510,Samsung,23,46,91,2/28/2024
+1045,Gigabyte Keroro,Gigabyte,82,74,43,3/26/2024
+1046,Plum Ram 8,Plum,40,45,83,11/24/2024
+1047,Lenovo Tab3 7,Lenovo,37,58,18,6/10/2024
+1048,LG KP270,LG,8,22,63,10/8/2024
+1049,Samsung Vodafone 360 M1,Samsung,90,82,86,10/30/2024
+1050,alcatel OT-S520,alcatel,77,35,88,3/4/2024
+1051,Samsung I8200 Galaxy S III mini VE,Samsung,5,97,77,9/18/2024
+1052,Sewon SGD-1030,Sewon,28,10,92,5/5/2024
+1053,Micromax Q6,Micromax,95,15,6,4/2/2024
+1054,Oppo F7 Youth,Oppo,60,25,38,12/29/2024
+1055,Orange Hiro,Orange,57,46,3,10/14/2024
+1056,LG Optimus Hub E510,LG,74,21,12,4/20/2024
+1057,BlackBerry Torch 9810,BlackBerry,26,100,33,2/12/2025
+1058,Meizu 16 Plus,Meizu,82,33,80,12/22/2024
+1059,alcatel OT-819 Soul,alcatel,50,79,31,11/1/2024
+1060,Sagem MY V-85,Sagem,7,61,83,5/21/2024
+1061,Sagem MY X-7,Sagem,62,18,8,4/6/2024
+1062,Celkon C999,Celkon,81,41,10,11/10/2024
+1063,Samsung X680,Samsung,45,48,70,5/24/2024
+1064,Pantech PG-3900,Pantech,74,61,73,12/8/2024
+1065,T-Mobile Dash 3G,T-Mobile,51,1,57,7/4/2024
+1066,Infinix Note 5,Infinix,83,66,39,1/21/2025
+1067,Celkon C350,Celkon,31,35,38,1/23/2025
+1068,Sagem my855c,Sagem,2,46,73,1/3/2025
+1069,Philips W3568,Philips,16,69,38,10/28/2024
+1070,Apple Watch 38mm (1st gen),Apple,43,21,57,3/2/2024
+1071,Philips Xenium X700,Philips,99,80,28,1/31/2025
+1072,Samsung E760,Samsung,72,65,82,4/26/2024
+1073,Samsung Galaxy Note8,Samsung,72,94,21,7/6/2024
+1074,WND Wind DUO 2100,WND,47,31,25,3/13/2024
+1075,LG G4 Dual,LG,54,85,98,12/29/2024
+1076,LG Optimus S,LG,85,89,47,4/10/2024
+1077,Bird M08,Bird,22,68,15,3/20/2024
+1078,BQ Aquaris X Pro,BQ,23,92,52,1/6/2025
+1079,Nokia Lumia 610,Nokia,40,44,79,10/26/2024
+1080,HTC Touch Pro2 CDMA,HTC,76,38,60,5/16/2024
+1081,alcatel OT Easy HF,alcatel,64,37,93,6/7/2024
+1082,LG Bello II,LG,28,1,50,9/2/2024
+1083,Energizer U680S,Energizer,43,2,67,2/19/2024
+1084,Samsung Galaxy S6 active,Samsung,28,78,6,6/20/2024
+1085,Sagem MY C5-3,Sagem,56,7,17,2/22/2024
+1086,XOLO Play,XOLO,83,13,21,11/21/2024
+1087,Samsung Galaxy Tab Pro 10.1 LTE,Samsung,85,10,3,4/9/2024
+1088,Spice Mi-285 Stellar,Spice,27,81,13,3/17/2024
+1089,Micromax Bolt S302,Micromax,53,8,78,1/10/2025
+1090,alcatel OT-665,alcatel,60,88,72,5/14/2024
+1091,Micromax Bolt S301,Micromax,39,27,59,3/22/2024
+1092,LG L90 D405,LG,100,32,62,6/28/2024
+1093,Huawei Summit,Huawei,5,66,47,6/15/2024
+1094,Allview X3 Soul,Allview,83,51,50,9/15/2024
+1095,Maxwest Virtue Z5,Maxwest,52,53,61,9/3/2024
+1096,Vodafone 231,Vodafone,55,90,92,6/16/2024
+1097,Tecno Spark Pro,Tecno,56,4,47,2/23/2024
+1098,Xiaomi Black Shark 3,Xiaomi,8,21,70,2/2/2025
+1099,LG EGO Wi-Fi,LG,30,14,22,4/6/2024
+1100,ZTE Avid Plus,ZTE,91,2,46,12/30/2024
+1101,NEC N401i,NEC,1,40,95,11/3/2024
+1102,Realme X3,Realme,8,84,88,2/16/2024
+1103,Sony Ericsson V640,Sony,96,92,39,3/16/2024
+1104,Realme C2,Realme,30,52,81,3/27/2024
+1105,Apple iPhone 12 Pro Max,Apple,95,72,53,8/19/2024
+1106,Asus Zenfone 4 Max Pro ZC554KL,Asus,23,89,47,5/21/2024
+1107,Samsung Galaxy Tab A 8.0 & S Pen (2019),Samsung,10,64,84,6/16/2024
+1108,BLU J6,BLU,52,52,93,1/4/2025
+1109,QMobile Noir Z7,QMobile,98,6,46,12/6/2024
+1110,vivo V9 Youth,vivo,60,30,35,12/22/2024
+1111,LG GU200,LG,19,97,93,4/25/2024
+1112,Nokia 6810,Nokia,86,96,10,9/9/2024
+1113,Samsung Galaxy J4 Core,Samsung,73,65,21,8/3/2024
+1114,ZTE F100,ZTE,36,82,31,11/28/2024
+1115,LG GS190,LG,100,33,39,1/17/2025
+1116,LG Optimus Sol E730,LG,74,63,95,5/5/2024
+1117,Qtek 8060,Qtek,1,17,44,7/15/2024
+1118,Karbonn K52 Groovster,Karbonn,96,59,32,12/11/2024
+1119,LG BL40 New Chocolate,LG,5,67,90,1/17/2025
+1120,Meizu 15 Lite,Meizu,97,34,32,11/27/2024
+1121,Xiaomi Redmi K30 Pro Zoom,Xiaomi,80,26,80,10/12/2024
+1122,Lava Iris 402e,Lava,14,53,51,3/24/2024
+1123,Apple iPhone 11 Pro Max,Apple,75,42,84,11/17/2024
+1124,vivo V17 Neo,vivo,2,43,33,8/13/2024
+1125,Oppo N3,Oppo,73,88,43,1/5/2025
+1126,Sony Ericsson G700 Business Edition,Sony,3,36,61,9/6/2024
+1127,Spice Mi-355 Stellar Craze,Spice,61,6,96,2/19/2024
+1128,Nokia 8800,Nokia,42,69,64,5/16/2024
+1129,Yezz Epic T7,Yezz,28,16,38,5/24/2024
+1130,Motorola V1050,Motorola,34,49,70,10/15/2024
+1131,Micromax X226+,Micromax,33,17,18,11/8/2024
+1132,Honor Play 4T Pro,Honor,6,48,89,11/24/2024
+1133,Chea A90,Chea,37,92,54,10/22/2024
+1134,Prestigio MultiPhone 5300 Duo,Prestigio,86,22,24,4/3/2024
+1135,BLU R2 LTE,BLU,94,1,44,5/16/2024
+1136,alcatel OT Max db,alcatel,8,57,37,9/30/2024
+1137,Micromax X098,Micromax,43,97,98,11/6/2024
+1138,Nokia 111,Nokia,58,58,22,10/12/2024
+1139,HTC Touch Pro CDMA,HTC,46,72,74,1/12/2025
+1140,Sony Ericsson Cedar,Sony,77,21,8,1/29/2025
+1141,Samsung T400,Samsung,55,40,9,7/23/2024
+1142,NEC N750,NEC,12,15,51,9/18/2024
+1143,Samsung Galaxy Nexus I9250,Samsung,43,16,93,9/24/2024
+1144,Toshiba Excite Pro,Toshiba,29,55,13,1/24/2025
+1145,Samsung S3500,Samsung,81,86,78,1/2/2025
+1146,Coolpad Cool M7,Coolpad,79,5,49,4/1/2024
+1147,Samsung E2530,Samsung,36,37,53,10/11/2024
+1148,Siemens C10,Siemens,95,30,95,10/27/2024
+1149,Samsung Galaxy S5 Neo,Samsung,41,37,36,8/11/2024
+1150,verykool sl5050 Phantom,verykool,98,43,30,2/17/2024
+1151,Intex Aqua 4.5E,Intex,69,81,80,1/31/2025
+1152,Gigabyte GSmart Essence 4,Gigabyte,8,93,60,11/14/2024
+1153,LG T510,LG,27,53,35,9/16/2024
+1154,HTC Desire 816,HTC,78,52,49,2/20/2024
+1155,LG Velvet 5G UW,LG,83,68,80,1/7/2025
+1156,Philips Xenium 9@9q,Philips,81,25,68,11/25/2024
+1157,Tecno Spark Pro,Tecno,61,39,39,8/5/2024
+1158,Sony Ericsson T715,Sony,41,7,6,11/23/2024
+1159,Huawei P40 lite E,Huawei,51,14,65,12/28/2024
+1160,Huawei Ascend G630,Huawei,19,9,25,6/25/2024
+1161,alcatel OT-E221,alcatel,94,56,90,6/20/2024
+1162,Xiaomi Mi Watch Color Sports,Xiaomi,82,39,97,6/26/2024
+1163,LG GB170,LG,80,39,57,2/27/2024
+1164,Samsung Galaxy J2 Core,Samsung,79,7,98,10/12/2024
+1165,Siemens A55,Siemens,39,48,31,6/11/2024
+1166,BLU Energy Diamond Mini,BLU,91,81,25,4/21/2024
+1167,Meizu MX2,Meizu,92,11,44,11/1/2024
+1168,Motorola W395,Motorola,93,97,87,12/11/2024
+1169,Micromax Vdeo 2,Micromax,62,90,28,1/19/2025
+1170,alcatel Roadsign,alcatel,29,65,3,10/25/2024
+1171,Asus ZenFone Live (L1) ZA550KL,Asus,78,40,30,8/28/2024
+1172,QMobile Noir X800,QMobile,50,18,70,2/10/2025
+1173,Panasonic P101,Panasonic,22,18,16,4/7/2024
+1174,Meizu U20,Meizu,77,88,94,7/28/2024
+1175,Panasonic Eluga I2,Panasonic,61,75,54,7/29/2024
+1176,vivo Y81,vivo,39,85,83,11/26/2024
+1177,Nokia 150 (2020),Nokia,54,97,16,12/1/2024
+1178,Lenovo Vibe Shot,Lenovo,89,64,88,11/30/2024
+1179,i-mate SP5m,i-mate,66,19,71,7/25/2024
+1180,Samsung Z100,Samsung,93,6,60,10/1/2024
+1181,Acer Liquid,Acer,44,23,13,7/18/2024
+1182,Samsung A727,Samsung,2,92,59,5/26/2024
+1183,HP Pre 3 CDMA,HP,20,72,99,5/24/2024
+1184,Vodafone 526,Vodafone,79,34,56,5/11/2024
+1185,Samsung S5610,Samsung,58,45,17,11/10/2024
+1186,Lenovo Z5s,Lenovo,64,21,99,6/13/2024
+1187,Razer Phone 2,Razer,86,71,40,10/11/2024
+1188,Huawei Mate 40 Pro+,Huawei,98,21,19,3/18/2024
+1189,Amoi F320,Amoi,62,92,80,4/19/2024
+1190,Samsung i780,Samsung,70,19,66,9/4/2024
+1191,LG W5200,LG,40,53,17,9/24/2024
+1192,Huawei MediaPad M5 Lite 8,Huawei,79,87,18,7/7/2024
+1193,Vodafone Smart 4 mini,Vodafone,88,87,98,2/10/2025
+1194,Samsung Galaxy J7 Duo,Samsung,85,97,24,11/9/2024
+1195,Sony Xperia T3,Sony,31,91,6,12/25/2024
+1196,Asus VivoTab RT TF600T,Asus,53,52,63,12/22/2024
+1197,Acer Liquid E3,Acer,56,8,56,11/13/2024
+1198,T-Mobile Comet,T-Mobile,33,26,20,7/22/2024
+1199,BLU Vivo X,BLU,73,72,25,2/20/2024
+1200,Oppo Reno4 SE,Oppo,68,16,84,6/4/2024
+1201,Celkon A83,Celkon,19,72,50,7/17/2024
+1202,Huawei MediaPad M2 10.0,Huawei,88,28,64,3/11/2024
+1203,Huawei Ascend P2,Huawei,97,70,77,10/16/2024
+1204,vivo V5,vivo,100,68,44,8/6/2024
+1205,alcatel Pop C5,alcatel,91,19,6,6/14/2024
+1206,Emporia RL1,Emporia,84,49,4,11/1/2024
+1207,alcatel OT-990,alcatel,18,20,47,5/31/2024
+1208,Samsung T100,Samsung,91,22,44,8/19/2024
+1209,Lenovo A830,Lenovo,79,66,42,2/13/2025
+1210,Motorola GLEAM+ WX308,Motorola,24,63,79,10/15/2024
+1211,Tecno Spark Pro,Tecno,98,65,15,5/29/2024
+1212,LG KU990 Viewty,LG,67,67,9,1/10/2025
+1213,Huawei P20 Pro,Huawei,21,61,58,12/15/2024
+1214,LG V60 ThinQ 5G,LG,68,81,39,6/8/2024
+1215,BLU Samba TV,BLU,27,75,69,12/30/2024
+1216,alcatel Pop 10,alcatel,43,94,57,10/14/2024
+1217,Motorola C380/C385,Motorola,52,29,21,8/19/2024
+1218,Micromax X271,Micromax,78,89,34,3/11/2024
+1219,Samsung i500,Samsung,70,16,61,8/30/2024
+1220,Nokia Asha 210,Nokia,48,16,32,12/23/2024
+1221,HTC First,HTC,24,33,73,3/11/2024
+1222,Acer beTouch E101,Acer,15,95,19,8/14/2024
+1223,Wiko Pulp,Wiko,33,82,68,9/2/2024
+1224,Asus Zenfone 5 Lite ZC600KL,Asus,25,43,96,4/3/2024
+1225,Celkon A66,Celkon,84,73,14,1/21/2025
+1226,Gigabyte GSmart S1200,Gigabyte,50,86,50,11/15/2024
+1227,Motorola L6,Motorola,66,61,47,5/29/2024
+1228,QMobile Noir Z12 Pro,QMobile,55,29,98,11/28/2024
+1229,OnePlus 5T,OnePlus,61,14,43,5/30/2024
+1230,BLU Kick,BLU,9,5,86,2/28/2024
+1231,Nokia 1209,Nokia,71,41,16,12/30/2024
+1232,Lenovo K3 Note,Lenovo,86,5,99,8/3/2024
+1233,ZTE Blade V8 Mini,ZTE,59,73,10,3/12/2024
+1234,Celkon A112,Celkon,60,19,100,8/20/2024
+1235,vivo Y3 (4GB+64GB),vivo,26,18,78,12/20/2024
+1236,LG Wine Smart,LG,58,24,61,10/21/2024
+1237,Huawei P smart,Huawei,43,38,74,11/18/2024
+1238,Allview P4 eMagic,Allview,60,5,98,10/20/2024
+1239,Allview Viva H10 LTE,Allview,56,86,30,9/18/2024
+1240,ZTE Blade Max View,ZTE,45,55,31,12/28/2024
+1241,Pantech Vega R3 IM-A850L,Pantech,60,55,5,11/17/2024
+1242,alcatel Idol 3 (5.5),alcatel,69,9,16,7/28/2024
+1243,BlackBerry Curve 9220,BlackBerry,6,8,72,3/14/2024
+1244,Samsung I909 Galaxy S,Samsung,82,79,23,1/28/2025
+1245,Philips 759,Philips,88,87,56,12/23/2024
+1246,Samsung Z130,Samsung,15,52,65,8/12/2024
+1247,Posh Kick Pro LTE L520,Posh,68,17,31,10/29/2024
+1248,LG U830,LG,94,87,28,5/8/2024
+1249,Nokia 108 Dual SIM,Nokia,84,50,44,5/27/2024
+1250,Nokia 3250,Nokia,85,46,27,12/28/2024
+1251,Philips Xenium 9@9h,Philips,30,97,11,1/11/2025
+1252,BLU Studio G HD LTE,BLU,51,4,24,3/24/2024
+1253,LG Optimus L7 P700,LG,18,92,100,4/2/2024
+1254,Celkon C366,Celkon,61,21,43,8/3/2024
+1255,Sony Ericsson WT18i,Sony,52,51,97,1/21/2025
+1256,Bird S799,Bird,90,99,24,11/29/2024
+1257,Oppo F11 Pro,Oppo,15,39,65,11/4/2024
+1258,Xiaomi Mi Pad 2,Xiaomi,2,17,87,4/26/2024
+1259,Bird D720,Bird,19,53,21,7/14/2024
+1260,BLU Deejay II,BLU,7,23,5,8/5/2024
+1261,Micromax Canvas Evok Note E453,Micromax,29,92,87,10/6/2024
+1262,LG L65 Dual D285,LG,51,74,52,5/31/2024
+1263,Honor 20 lite,Honor,77,33,96,4/12/2024
+1264,Eten glofiish X610,Eten,56,98,79,6/8/2024
+1265,Bird S668,Bird,90,76,43,2/29/2024
+1266,Asus Fonepad 7 FE375CG,Asus,83,67,77,5/3/2024
+1267,Motorola Moto X Play,Motorola,71,45,3,7/12/2024
+1268,LG KE770 Shine,LG,21,94,8,12/1/2024
+1269,verykool SL5000 Quantum,verykool,60,62,86,2/22/2024
+1270,Motorola Moto E6,Motorola,93,9,59,9/5/2024
+1271,Vodafone Smart E8,Vodafone,17,79,19,3/3/2024
+1272,XOLO Play 8X-1100,XOLO,5,92,37,11/3/2024
+1273,BLU C5 Plus,BLU,30,18,87,8/12/2024
+1274,Micromax X267,Micromax,76,92,29,5/28/2024
+1275,vivo iQOO Neo,vivo,47,4,28,12/17/2024
+1276,Oppo Reno4 SE,Oppo,5,46,22,3/10/2024
+1277,Archos 80 Helium 4G,Archos,22,16,91,5/10/2024
+1278,Panasonic P341i,Panasonic,30,93,39,7/21/2024
+1279,Nokia 3230,Nokia,1,89,44,4/5/2024
+1280,OnePlus 7T Pro,OnePlus,99,97,47,9/12/2024
+1281,LG Optimus Me P350,LG,34,87,89,10/9/2024
+1282,HTC Desire 516 dual sim,HTC,68,72,25,9/22/2024
+1283,Motorola V1000,Motorola,99,77,50,10/13/2024
+1284,Lava Iris 250,Lava,19,39,34,2/28/2024
+1285,HTC Desire 820,HTC,47,1,85,8/6/2024
+1286,Huawei Summit,Huawei,44,50,38,8/3/2024
+1287,Realme 6 Pro,Realme,39,59,48,11/16/2024
+1288,Nokia N810,Nokia,17,46,30,3/27/2024
+1289,alcatel One Touch S'Pop,alcatel,44,63,18,5/11/2024
+1290,Coolpad Cool 5,Coolpad,55,35,48,2/11/2025
+1291,Philips T939,Philips,54,16,8,12/3/2024
+1292,LG KU2100,LG,55,79,16,12/7/2024
+1293,Vodafone 360 H2,Vodafone,79,63,92,9/19/2024
+1294,Spice Mi-720,Spice,72,48,63,9/27/2024
+1295,Energizer Hardcase H570S,Energizer,42,25,40,8/2/2024
+1296,Motorola Admiral XT603,Motorola,84,90,36,7/28/2024
+1297,Plum Optimax 7.0,Plum,29,20,27,4/23/2024
+1298,Gionee M2017,Gionee,60,80,86,10/3/2024
+1299,Pantech Matrix Pro,Pantech,25,94,74,11/24/2024
+1300,HTC One mini,HTC,21,34,44,11/25/2024
+1301,Xiaomi Redmi 9 Prime,Xiaomi,93,86,33,7/9/2024
+1302,Samsung M150,Samsung,37,4,72,4/9/2024
+1303,Samsung Galaxy Tab 4 7.0,Samsung,83,79,25,1/29/2025
+1304,BLU Studio 5.0 HD LTE,BLU,5,40,25,8/6/2024
+1305,HTC Explorer,HTC,55,30,100,7/3/2024
+1306,Samsung E3213 Hero,Samsung,34,31,72,1/4/2025
+1307,Samsung Z540,Samsung,76,95,39,12/19/2024
+1308,Bird V5510,Bird,56,19,43,8/1/2024
+1309,QMobile Noir LT250,QMobile,53,91,35,7/12/2024
+1310,Motorola Moto Z3,Motorola,65,8,10,12/15/2024
+1311,HTC Jetstream,HTC,3,35,76,10/1/2024
+1312,Plum Boot,Plum,14,43,16,1/24/2025
+1313,Nokia 3230,Nokia,4,71,33,10/15/2024
+1314,Samsung Metro E2202,Samsung,77,69,99,7/6/2024
+1315,BLU Grand X,BLU,19,17,55,11/17/2024
+1316,Micromax W900,Micromax,45,68,41,12/8/2024
+1317,Nokia N75,Nokia,30,25,82,11/30/2024
+1318,Sagem MY X-1w,Sagem,95,28,55,2/11/2025
+1319,Asus Zenfone Max ZC550KL,Asus,17,11,42,7/13/2024
+1320,Gionee Pioneer P3,Gionee,76,94,39,12/28/2024
+1321,Xiaomi Mi 4 LTE,Xiaomi,44,1,97,9/20/2024
+1322,alcatel CareTime,alcatel,93,21,65,6/6/2024
+1323,Nokia Lumia 2520,Nokia,66,31,42,2/21/2024
+1324,Sony Xperia Tablet Z Wi-Fi,Sony,35,23,85,3/24/2024
+1325,Nokia E5,Nokia,15,63,59,9/6/2024
+1326,Plum Sync,Plum,37,99,44,5/27/2024
+1327,Innostream INNO 89,Innostream,17,83,32,1/2/2025
+1328,Celkon Q455L,Celkon,55,99,44,12/13/2024
+1329,Archos 53 Titanium,Archos,35,90,26,10/6/2024
+1330,Celkon A112,Celkon,9,53,34,10/22/2024
+1331,Sendo S200,Sendo,6,90,51,6/25/2024
+1332,Samsung I8530 Galaxy Beam,Samsung,46,91,2,9/20/2024
+1333,HP iPAQ Voice Messenger,HP,22,21,100,2/29/2024
+1334,Nokia 6250,Nokia,17,60,78,8/4/2024
+1335,Lenovo A800,Lenovo,11,54,85,10/24/2024
+1336,Micromax Bolt D320,Micromax,37,41,37,4/26/2024
+1337,verykool R80,verykool,16,96,46,7/17/2024
+1338,Celkon Campus Crown Q40,Celkon,11,9,77,1/30/2025
+1339,Kyocera Rise C5155,Kyocera,29,11,65,11/2/2024
+1340,Micromax Canvas Mega E353,Micromax,14,59,77,11/25/2024
+1341,BLU Energy X,BLU,54,30,99,3/7/2024
+1342,BlackBerry 8700c,BlackBerry,37,37,17,10/24/2024
+1343,BLU Hero II,BLU,73,77,46,3/7/2024
+1344,Siemens A75,Siemens,12,61,1,6/23/2024
+1345,Samsung L760,Samsung,24,34,10,1/11/2025
+1346,Icemobile Charm II,Icemobile,30,53,20,4/30/2024
+1347,XOLO Q1000,XOLO,16,43,8,12/24/2024
+1348,Motorola A732,Motorola,20,40,93,10/18/2024
+1349,BLU Studio 5.3 II,BLU,85,12,19,9/14/2024
+1350,Sony Ericsson K850,Sony,87,54,33,1/8/2025
+1351,alcatel OT Max db,alcatel,71,58,21,8/18/2024
+1352,Dell Venue 7,Dell,25,52,63,11/7/2024
+1353,i-mobile 318,i-mobile,77,29,98,3/27/2024
+1354,Motorola W205,Motorola,72,42,19,3/13/2024
+1355,Motorola DROID X,Motorola,79,68,23,12/17/2024
+1356,Xiaomi Redmi 6,Xiaomi,34,35,52,4/1/2024
+1357,Huawei nova 8 SE,Huawei,24,91,64,7/4/2024
+1358,Motorola Moto C,Motorola,25,16,76,6/27/2024
+1359,Nokia 6500 classic,Nokia,24,19,27,12/19/2024
+1360,Pantech Vega Racer 2 IM-A830L,Pantech,40,27,23,4/3/2024
+1361,LG Flick T320,LG,35,71,64,3/30/2024
+1362,Lenovo A369i,Lenovo,36,34,56,4/19/2024
+1363,LG GD880 Mini,LG,89,91,95,9/2/2024
+1364,Lenovo A820,Lenovo,93,81,20,8/22/2024
+1365,Micromax Canvas Mega 4G Q417,Micromax,99,92,6,9/9/2024
+1366,Infinix Zero 6 Pro,Infinix,31,74,89,3/14/2024
+1367,Allview P5 eMagic,Allview,97,60,20,10/24/2024
+1368,i-mobile 902,i-mobile,18,97,37,3/30/2024
+1369,Motorola COCKTAIL VE70,Motorola,84,22,28,3/4/2024
+1370,Motorola V975,Motorola,72,92,22,4/25/2024
+1371,Samsung Galaxy J7 (2018),Samsung,71,5,98,1/15/2025
+1372,QMobile Noir E8,QMobile,50,75,29,6/7/2024
+1373,Micromax X352,Micromax,25,81,54,11/15/2024
+1374,Sewon SG-2890CD,Sewon,78,11,33,9/21/2024
+1375,Motorola Motocubo A45,Motorola,64,28,65,3/7/2024
+1376,BLU Tattoo Mini,BLU,81,12,16,2/6/2025
+1377,Samsung X500,Samsung,85,13,97,4/11/2024
+1378,Samsung E900,Samsung,64,91,95,3/5/2024
+1379,Asus Memo Pad FHD10,Asus,9,40,65,2/14/2024
+1380,Sony Ericsson Zylo,Sony,99,68,88,4/9/2024
+1381,Samsung X610,Samsung,50,50,21,3/20/2024
+1382,Samsung i500,Samsung,24,32,45,7/19/2024
+1383,Vodafone Smart ultra 7,Vodafone,89,68,35,3/16/2024
+1384,O2 XDA Trion,O2,65,58,47,4/14/2024
+1385,Samsung Omnia W I8350,Samsung,96,20,62,12/1/2024
+1386,Samsung Z1,Samsung,24,94,82,8/25/2024
+1387,Philips 180,Philips,41,97,98,11/1/2024
+1388,Vodafone Tab Prime 7,Vodafone,12,2,79,7/8/2024
+1389,Yezz Andy 3G 4.0 YZ1120,Yezz,95,66,2,6/9/2024
+1390,Sony Ericsson Cedar,Sony,12,94,79,11/20/2024
+1391,Samsung C120,Samsung,23,30,92,6/10/2024
+1392,Huawei MediaPad M6 10.8,Huawei,91,62,83,3/12/2024
+1393,Sonim XP3.20 Quest Pro,Sonim,66,31,62,3/25/2024
+1394,verykool SL6010 Cyprus LTE,verykool,19,44,95,11/7/2024
+1395,Huawei Y5 Prime (2018),Huawei,94,91,55,9/18/2024
+1396,BlackBerry Curve 9220,BlackBerry,11,70,89,8/25/2024
+1397,Motorola PRO,Motorola,35,77,80,5/21/2024
+1398,Micromax Canvas Spark Q380,Micromax,35,88,92,8/3/2024
+1399,Huawei Enjoy 20 5G,Huawei,42,82,21,6/7/2024
+1400,Siemens S35i,Siemens,19,47,52,10/21/2024
+1401,Unnecto Quattro X,Unnecto,9,36,95,11/23/2024
+1402,ZTE F103,ZTE,86,1,4,10/3/2024
+1403,Micromax Canvas Selfie A255,Micromax,81,41,40,8/28/2024
+1404,Sony Xperia Z4 Compact,Sony,53,45,70,8/14/2024
+1405,Samsung X830,Samsung,33,35,54,2/13/2025
+1406,Philips Xenium 9@9 ++,Philips,10,68,88,5/9/2024
+1407,Pantech PG-1000s,Pantech,33,63,56,12/11/2024
+1408,Nokia C6-01,Nokia,62,83,61,1/19/2025
+1409,Samsung Gravity Q T289,Samsung,7,77,56,6/14/2024
+1410,Amoi H812,Amoi,93,94,68,5/24/2024
+1411,Lava Iris 250,Lava,100,28,61,12/30/2024
+1412,Motorola MotoGO EX430,Motorola,10,79,19,3/14/2024
+1413,Samsung E200 ECO,Samsung,23,83,88,3/4/2024
+1414,Samsung Z310,Samsung,74,50,84,9/2/2024
+1415,BLU Elite 3.8,BLU,77,85,99,9/17/2024
+1416,Siemens CL50,Siemens,56,57,98,9/9/2024
+1417,Samsung Guru Music 2,Samsung,53,90,53,4/3/2024
+1418,Nokia XL,Nokia,31,43,10,11/29/2024
+1419,BLU Win HD,BLU,3,2,11,9/25/2024
+1420,Philips V526,Philips,17,58,67,4/6/2024
+1421,Philips 630,Philips,27,51,32,6/7/2024
+1422,Honor 8 Pro,Honor,49,33,49,5/29/2024
+1423,HTC One M9,HTC,40,90,98,1/5/2025
+1424,vivo X6,vivo,31,78,78,8/31/2024
+1425,LG GB102,LG,85,32,16,11/19/2024
+1426,LG G Pad III 8.0 FHD,LG,91,44,37,2/3/2025
+1427,Vodafone 830i,Vodafone,31,57,42,11/11/2024
+1428,Sony Ericsson W610,Sony,77,93,13,7/25/2024
+1429,Mitsubishi m21i,Mitsubishi,20,18,91,4/26/2024
+1430,vivo X5Max+,vivo,40,24,100,2/1/2025
+1431,Benefon Track,Benefon,61,80,74,9/10/2024
+1432,Siemens S45,Siemens,65,5,11,6/22/2024
+1433,Tecno Spark Go 2020,Tecno,3,80,73,9/16/2024
+1434,Philips X809,Philips,66,49,98,9/2/2024
+1435,ZTE Optik,ZTE,47,82,6,4/29/2024
+1436,Plum Caliber II,Plum,40,17,34,6/8/2024
+1437,Samsung A767 Propel,Samsung,46,74,74,7/6/2024
+1438,Huawei Y6II Compact,Huawei,29,25,81,10/21/2024
+1439,Plum Axe 4,Plum,23,45,19,8/8/2024
+1440,Tecno Spark Pro,Tecno,37,25,28,11/20/2024
+1441,alcatel OT-216,alcatel,11,76,54,5/30/2024
+1442,Archos 55 Graphite,Archos,19,78,68,5/31/2024
+1443,Kyocera Milano C5121,Kyocera,49,27,8,12/4/2024
+1444,Motorola EM35,Motorola,10,31,72,11/8/2024
+1445,Meizu M5 Note,Meizu,89,28,4,9/13/2024
+1446,O2 XDA Argon,O2,70,67,79,3/17/2024
+1447,Pantech PG-1400,Pantech,21,32,90,9/2/2024
+1448,BlackBerry Z3,BlackBerry,65,32,69,12/22/2024
+1449,Vodafone Smart speed 6,Vodafone,64,57,63,1/11/2025
+1450,LG KT770,LG,53,37,90,7/25/2024
+1451,Amoi F320,Amoi,22,83,39,12/22/2024
+1452,Sony Xperia SX SO-05D,Sony,88,17,73,2/18/2024
+1453,Samsung S5600v Blade,Samsung,59,12,77,11/17/2024
+1454,Samsung A667 Evergreen,Samsung,40,80,12,6/21/2024
+1455,Blackview S8,Blackview,6,1,37,3/14/2024
+1456,Lava A67,Lava,82,36,18,8/25/2024
+1457,Philips X216,Philips,98,51,67,8/9/2024
+1458,Sony Xperia ion LTE,Sony,79,69,24,8/25/2024
+1459,Motorola E1000,Motorola,12,11,95,6/3/2024
+1460,Karbonn K440,Karbonn,81,45,52,1/20/2025
+1461,Ulefone Armor 9,Ulefone,83,88,22,10/5/2024
+1462,Prestigio MultiPhone 4500 Duo,Prestigio,85,43,73,2/26/2024
+1463,Samsung Ativ S I8750,Samsung,71,33,68,11/3/2024
+1464,Prestigio MultiPad 2 Pro Duo 8.0 3G,Prestigio,83,36,91,2/27/2024
+1465,verykool s4510 Luna,verykool,28,4,89,7/26/2024
+1466,Lava Iris 450 Colour,Lava,37,70,14,4/25/2024
+1467,QMobile B800,QMobile,11,32,82,3/26/2024
+1468,Xiaomi Mi Note 2,Xiaomi,22,37,20,5/24/2024
+1469,Vodafone 332,Vodafone,21,17,29,3/20/2024
+1470,LG K5,LG,72,100,21,2/4/2025
+1471,Micromax X288,Micromax,96,97,64,1/7/2025
+1472,Lenovo Tab 4 10,Lenovo,84,23,26,2/21/2024
+1473,Samsung J630,Samsung,34,40,75,8/14/2024
+1474,Wiko Sunny2,Wiko,16,97,36,6/6/2024
+1475,Nokia 2310,Nokia,40,25,87,10/3/2024
+1476,Honor 8C,Honor,64,75,44,7/13/2024
+1477,Plum Compass LTE,Plum,92,36,91,2/21/2024
+1478,Sony Ericsson K550im,Sony,79,84,50,10/4/2024
+1479,LG T375 Cookie Smart,LG,91,68,56,12/28/2024
+1480,Realme 6 Pro,Realme,32,15,21,12/31/2024
+1481,Sony Xperia M2 dual,Sony,56,20,74,12/1/2024
+1482,i-mate JAMA 201,i-mate,61,31,73,7/27/2024
+1483,Energizer Hardcase H550S,Energizer,63,56,98,5/30/2024
+1484,Nokia Lumia 520,Nokia,40,70,6,6/10/2024
+1485,Spice Stellar 509 (Mi-509),Spice,98,2,44,6/12/2024
+1486,Samsung Galaxy Pocket plus S5301,Samsung,8,17,10,8/17/2024
+1487,Samsung P7100 Galaxy Tab 10.1v,Samsung,55,76,38,5/15/2024
+1488,Panasonic Eluga Arc,Panasonic,3,18,40,8/7/2024
+1489,Lenovo A316i,Lenovo,70,11,31,7/28/2024
+1490,Lava V5,Lava,51,50,50,4/18/2024
+1491,Samsung Google Nexus S I9020A,Samsung,42,28,70,6/13/2024
+1492,Samsung Galaxy Ace S5830,Samsung,24,77,63,11/21/2024
+1493,Lava X41 Plus,Lava,64,65,59,5/8/2024
+1494,Samsung Galaxy C10,Samsung,11,29,91,2/19/2024
+1495,Samsung M8910 Pixon12,Samsung,22,68,9,4/16/2024
+1496,Icemobile Charm II,Icemobile,49,28,62,8/20/2024
+1497,Energizer Energy 240,Energizer,60,99,49,6/24/2024
+1498,Asus Zenpad 7.0 Z370CG,Asus,44,61,59,7/26/2024
+1499,Huawei Y9s,Huawei,20,70,96,9/18/2024
+1500,verykool T742,verykool,37,6,79,11/15/2024
+1501,Samsung Galaxy S5 Neo,Samsung,27,13,97,2/3/2025
+1502,LG KF305,LG,11,8,34,3/26/2024
+1503,Realme GT 5G,Realme,21,58,82,10/2/2024
+1504,Samsung E2130,Samsung,23,13,52,9/17/2024
+1505,TCL NxtPaper,TCL,41,4,18,11/12/2024
+1506,Casio G'zOne CA-201L,Casio,33,20,12,9/23/2024
+1507,Apple iPad 2 Wi-Fi,Apple,8,89,12,6/13/2024
+1508,Microsoft Lumia 1330,Microsoft,37,60,14,4/12/2024
+1509,Sagem my400V,Sagem,95,10,43,3/26/2024
+1510,Samsung Galaxy S6,Samsung,87,39,98,3/9/2024
+1511,Prestigio MultiPad 2 Ultra Duo 8.0 3G,Prestigio,66,32,21,10/26/2024
+1512,LG Cosmos Touch VN270,LG,76,33,99,12/14/2024
+1513,Bosch Com 608,Bosch,59,33,87,1/26/2025
+1514,QMobile Linq L15,QMobile,49,2,23,4/10/2024
+1515,Apple Watch 38mm (1st gen),Apple,6,86,57,4/15/2024
+1516,T-Mobile myTouch 3G Fender Edition,T-Mobile,97,32,38,8/13/2024
+1517,QMobile E1,QMobile,86,94,49,7/16/2024
+1518,Gionee F103,Gionee,4,89,61,9/25/2024
+1519,Samsung Galaxy J1 Nxt,Samsung,42,56,40,5/14/2024
+1520,LG K41S,LG,99,99,18,6/20/2024
+1521,LG KU250,LG,84,35,98,12/7/2024
+1522,Archos Diamond Alpha +,Archos,38,2,69,5/22/2024
+1523,Sony Ericsson Jalou,Sony,56,47,19,5/4/2024
+1524,BLU Energy M,BLU,71,54,25,2/1/2025
+1525,vivo Y11s,vivo,3,92,94,11/6/2024
+1526,Realme X50 Pro 5G,Realme,82,20,6,5/15/2024
+1527,Huawei Y9 (2018),Huawei,34,11,9,1/20/2025
+1528,Motorola SPICE Key XT317,Motorola,98,73,45,6/2/2024
+1529,Yezz Classic C60,Yezz,43,63,31,1/11/2025
+1530,Yezz Andy YZ1100,Yezz,50,53,19,11/4/2024
+1531,Motorola SlimLite,Motorola,55,72,63,9/27/2024
+1532,Motorola ROKR E1,Motorola,33,19,45,2/17/2024
+1533,Tel.Me. T919,Tel.Me.,50,27,36,10/21/2024
+1534,Huawei U7520,Huawei,48,87,95,3/8/2024
+1535,BQ Aquaris U2,BQ,53,82,51,5/3/2024
+1536,Micromax A87 Ninja 4.0,Micromax,59,37,72,2/20/2024
+1537,Xiaomi Redmi 2 Prime,Xiaomi,58,77,41,2/21/2024
+1538,Maxwest Orbit 6200,Maxwest,33,71,24,2/18/2024
+1539,Nvidia Shield K1,Nvidia,50,81,49,3/10/2024
+1540,Samsung N300,Samsung,33,100,1,3/27/2024
+1541,BLU Kick,BLU,51,80,93,9/20/2024
+1542,Panasonic KX-TU301,Panasonic,65,38,51,3/29/2024
+1543,HTC One (M8) dual sim,HTC,57,94,58,4/22/2024
+1544,LG C375 Cookie Tweet,LG,31,46,64,9/26/2024
+1545,NIU Andy 4E2I,NIU,66,27,51,9/1/2024
+1546,QMobile Noir Z7,QMobile,74,27,94,5/10/2024
+1547,Philips W7555,Philips,1,35,3,12/12/2024
+1548,alcatel OT-E207,alcatel,81,9,98,8/27/2024
+1549,Motorola Moto X Play Dual SIM,Motorola,19,64,65,6/30/2024
+1550,Asus Live G500TG,Asus,25,91,58,10/11/2024
+1551,Samsung i8910 Omnia HD,Samsung,28,34,61,7/29/2024
+1552,Samsung D780 flip,Samsung,47,62,52,4/12/2024
+1553,Sony Xperia acro HD SOI12,Sony,95,79,27,6/9/2024
+1554,Realme C20,Realme,75,95,75,5/30/2024
+1555,BLU Tank Xtreme 2.4,BLU,25,5,74,1/12/2025
+1556,Tecno Phantom 9,Tecno,13,29,16,6/20/2024
+1557,Oppo Reno4 Pro 5G,Oppo,30,41,19,10/23/2024
+1558,Nokia 7700,Nokia,5,6,17,5/6/2024
+1559,Bird S1180c,Bird,4,75,44,5/22/2024
+1560,Haier M2000,Haier,18,19,43,10/5/2024
+1561,Samsung Gear S3 frontier,Samsung,95,11,87,1/17/2025
+1562,Samsung Galaxy Tab S4 10.5,Samsung,44,82,92,3/10/2024
+1563,BLU G70,BLU,51,75,85,3/14/2024
+1564,Sagem MC 820,Sagem,88,63,23,11/12/2024
+1565,Samsung Galaxy A7 Duos,Samsung,40,72,38,6/3/2024
+1566,Huawei Watch GT 2 Porsche Design,Huawei,64,32,6,9/19/2024
+1567,Motorola EX112,Motorola,94,69,43,10/15/2024
+1568,alcatel OT-S121,alcatel,7,36,31,3/8/2024
+1569,Nokia Lumia 1020,Nokia,27,15,51,6/4/2024
+1570,Sharp SE-02,Sharp,93,85,83,6/1/2024
+1571,Huawei P40 Pro,Huawei,69,57,30,3/29/2024
+1572,Samsung E2120,Samsung,62,2,92,1/6/2025
+1573,Celkon C67+,Celkon,77,86,67,6/30/2024
+1574,Nokia Lumia 720,Nokia,60,9,56,11/16/2024
+1575,Vodafone 945,Vodafone,58,60,58,6/18/2024
+1576,O2 X2i,O2,35,68,61,5/17/2024
+1577,Nokia Lumia 520,Nokia,35,83,88,3/8/2024
+1578,Samsung Galaxy Nexus I9250M,Samsung,39,34,18,2/24/2024
+1579,Realme C15,Realme,19,49,49,6/2/2024
+1580,Sony Ericsson S700,Sony,1,30,67,7/3/2024
+1581,T-Mobile Pulse,T-Mobile,31,8,68,5/22/2024
+1582,Palm Treo 500v,Palm,9,86,50,10/9/2024
+1583,LG U8210,LG,81,1,67,11/18/2024
+1584,Nokia N71,Nokia,73,86,86,12/15/2024
+1585,Maxon MX-7990,Maxon,2,94,98,10/12/2024
+1586,Meizu 15,Meizu,15,2,57,7/24/2024
+1587,LG Flick T320,LG,24,57,88,8/21/2024
+1588,Plum Ten 3G,Plum,87,38,44,5/31/2024
+1589,Celkon C297,Celkon,66,25,59,9/1/2024
+1590,Samsung Galaxy Light,Samsung,70,71,84,1/24/2025
+1591,BenQ Z2,BenQ,21,97,59,4/5/2024
+1592,Samsung M260 Factor,Samsung,72,48,31,2/5/2025
+1593,Sony Ericsson W830,Sony,71,7,36,4/19/2024
+1594,Samsung Galaxy S6 edge (USA),Samsung,92,32,33,5/23/2024
+1595,Nokia X6 (2009),Nokia,92,11,78,3/13/2024
+1596,Sewon SG-5000,Sewon,61,1,82,6/26/2024
+1597,Huawei Mate 20 X,Huawei,28,28,98,12/26/2024
+1598,alcatel Pop 4+,alcatel,94,74,72,9/5/2024
+1599,Siemens SXG75,Siemens,81,33,45,3/14/2024
+1600,Oppo Reno5 4G,Oppo,2,5,23,10/15/2024
+1601,Samsung Galaxy Tab 4 7.0,Samsung,44,81,61,9/24/2024
+1602,Philips E100,Philips,13,66,50,1/15/2025
+1603,HTC Desire 516 dual sim,HTC,54,32,42,1/8/2025
+1604,Tecno Camon 11 Pro,Tecno,91,57,28,4/11/2024
+1605,alcatel OT 156,alcatel,81,25,36,3/20/2024
+1606,Archos 50 Helium 4G,Archos,50,47,90,1/1/2025
+1607,Acer Liquid Jade,Acer,46,28,76,11/4/2024
+1608,Honor Play4 Pro,Honor,36,40,25,10/3/2024
+1609,alcatel Pop 3 (5),alcatel,8,3,25,2/25/2024
+1610,LG KP105,LG,34,22,63,3/21/2024
+1611,Lenovo A7000 Turbo,Lenovo,13,15,29,6/6/2024
+1612,alcatel Pop S7,alcatel,41,58,32,7/2/2024
+1613,Samsung Galaxy S9+,Samsung,58,84,60,6/19/2024
+1614,Sonim XP3.20 Quest Pro,Sonim,61,48,98,11/28/2024
+1615,Google Pixel 2,Google,87,90,23,2/1/2025
+1616,LG K20 (2019),LG,90,69,6,3/29/2024
+1617,Nokia E71,Nokia,4,20,52,8/17/2024
+1618,Asus Zenfone 3 Laser ZC551KL,Asus,70,93,81,9/8/2024
+1619,LG Stylo 2,LG,17,70,51,1/26/2025
+1620,Lenovo IdeaTab S6000L,Lenovo,18,29,2,5/1/2024
+1621,Samsung Galaxy S5 mini Duos,Samsung,7,1,3,5/29/2024
+1622,alcatel OT 300,alcatel,55,51,56,11/18/2024
+1623,Motorola Moto E4,Motorola,27,74,96,4/1/2024
+1624,LG KC550,LG,23,53,32,7/3/2024
+1625,Nokia Lumia 1020,Nokia,51,77,62,5/13/2024
+1626,Gigabyte GSmart MS820,Gigabyte,97,14,52,5/12/2024
+1627,Asus P735,Asus,42,74,24,11/16/2024
+1628,LG W31,LG,53,24,54,8/3/2024
+1629,Sony Ericsson BRAVIA S004,Sony,70,87,53,10/10/2024
+1630,HTC Butterfly,HTC,14,49,47,8/11/2024
+1631,Motorola C113a,Motorola,94,2,58,2/10/2025
+1632,Asus Transformer Pad TF701T,Asus,1,20,52,5/12/2024
+1633,HP Slate7 VoiceTab Ultra,HP,51,54,19,5/28/2024
+1634,"vivo Y51 (2020, September)",vivo,12,97,12,12/23/2024
+1635,Micromax A88,Micromax,62,24,96,7/31/2024
+1636,Asus Zenfone 2 Laser ZE500KL,Asus,84,38,15,6/1/2024
+1637,HP Pro Slate 10 EE G1,HP,17,59,59,3/10/2024
+1638,Gigabyte GSmart T4 (Lite Edition),Gigabyte,44,86,24,7/15/2024
+1639,Allview V2 Viper,Allview,47,6,66,9/2/2024
+1640,Maxon MX-6899,Maxon,65,39,28,2/6/2025
+1641,Allview P10 Life,Allview,56,75,3,6/19/2024
+1642,Siemens CF75,Siemens,57,18,84,6/29/2024
+1643,Orange Dallas,Orange,98,31,2,10/5/2024
+1644,Sony Ericsson T270,Sony,1,76,58,9/15/2024
+1645,alcatel OT 320,alcatel,73,62,78,7/20/2024
+1646,BLU C5 (2017),BLU,56,60,36,4/18/2024
+1647,Gionee Pioneer P2S,Gionee,62,76,63,11/11/2024
+1648,Motorola Z6w,Motorola,73,80,91,4/9/2024
+1649,LG Optimus L3 II Dual E435,LG,13,68,89,4/1/2024
+1650,Samsung V200,Samsung,17,73,5,2/10/2025
+1651,Philips X712,Philips,64,46,96,12/13/2024
+1652,Archos 45 Titanium,Archos,39,22,31,8/17/2024
+1653,Tecno Spark 3 Pro,Tecno,65,46,42,3/6/2024
+1654,alcatel 2012,alcatel,31,95,81,7/8/2024
+1655,Huawei Mate X,Huawei,48,23,56,10/23/2024
+1656,vivo Y11 (2019),vivo,56,24,15,5/7/2024
+1657,Xiaomi Mi Watch Revolve,Xiaomi,91,52,50,11/19/2024
+1658,Samsung E1282T,Samsung,73,34,88,7/24/2024
+1659,Siemens U10,Siemens,71,65,39,2/14/2024
+1660,Infinix Zero 8,Infinix,75,70,97,7/9/2024
+1661,Asus Zenpad 7.0 Z370CG,Asus,10,10,44,6/1/2024
+1662,LG KU800,LG,88,76,75,8/27/2024
+1663,Asus Fonepad 7,Asus,98,77,41,9/15/2024
+1664,Sony Ericsson Z310,Sony,98,39,24,7/6/2024
+1665,Apple iPad 10.2 (2019),Apple,50,46,43,11/22/2024
+1666,HTC One (M8i),HTC,60,57,52,12/31/2024
+1667,Micromax Canvas Win W092,Micromax,83,58,25,10/22/2024
+1668,Micromax X098,Micromax,71,45,73,6/29/2024
+1669,Micromax Canvas Juice 3+ Q394,Micromax,96,86,64,12/29/2024
+1670,alcatel OT-595,alcatel,62,19,79,5/15/2024
+1671,LG Wink 3G T320,LG,12,28,70,4/12/2024
+1672,Asus Transformer Prime TF201,Asus,88,89,76,12/6/2024
+1673,Yezz Classic C22,Yezz,64,58,50,11/24/2024
+1674,Samsung Z140,Samsung,88,53,84,4/11/2024
+1675,LG G Pad III 8.0 FHD,LG,2,90,92,8/7/2024
+1676,ZTE nubia Prague S,ZTE,91,21,55,2/17/2024
+1677,Lenovo K8 Note,Lenovo,11,30,86,6/24/2024
+1678,Micromax X396,Micromax,45,100,100,1/6/2025
+1679,HTC Sensation XE,HTC,56,67,60,12/18/2024
+1680,Mitsubishi M750,Mitsubishi,46,85,30,5/18/2024
+1681,Lenovo A820,Lenovo,19,63,11,3/27/2024
+1682,ZTE Blade II V880+,ZTE,65,77,9,12/25/2024
+1683,Motorola MILESTONE 2,Motorola,94,24,75,8/22/2024
+1684,LG G2 Lite,LG,28,85,42,9/30/2024
+1685,Motorola V635,Motorola,91,49,84,3/5/2024
+1686,Philips X320,Philips,31,84,30,10/29/2024
+1687,BlackBerry Storm3,BlackBerry,58,83,83,2/20/2024
+1688,Motorola SLVR L9,Motorola,29,53,21,9/28/2024
+1689,Samsung Galaxy Tab 3 V,Samsung,65,4,14,2/22/2024
+1690,Panasonic A200,Panasonic,70,65,98,11/28/2024
+1691,Motorola C123,Motorola,98,7,4,11/28/2024
+1692,Motorola RIZR Z10,Motorola,50,97,73,11/9/2024
+1693,Samsung B3310,Samsung,54,85,49,11/9/2024
+1694,Samsung E1182,Samsung,97,92,24,12/31/2024
+1695,Apple iPhone,Apple,30,53,71,9/27/2024
+1696,LG G3 A,LG,10,75,36,2/28/2024
+1697,Kyocera Milano C5120,Kyocera,82,54,74,9/16/2024
+1698,Nokia 8250,Nokia,83,57,96,6/19/2024
+1699,Samsung C3212,Samsung,55,12,44,1/21/2025
+1700,vivo V3,vivo,100,85,59,9/26/2024
+1701,O2 X4,O2,88,8,28,7/19/2024
+1702,Samsung Galaxy V Plus,Samsung,40,23,48,7/9/2024
+1703,LG K92 5G,LG,67,17,33,7/22/2024
+1704,NEC N820,NEC,81,51,67,11/24/2024
+1705,BLU Studio J5,BLU,34,28,8,8/19/2024
+1706,Motorola FIRE XT311,Motorola,95,78,9,9/6/2024
+1707,Micromax Unite 4 plus,Micromax,82,28,56,4/26/2024
+1708,Ericsson GF 337,Ericsson,86,6,49,10/31/2024
+1709,BenQ M775C,BenQ,91,60,58,9/1/2024
+1710,Acer Liquid Z5,Acer,22,98,18,1/10/2025
+1711,LG CU720 Shine,LG,64,51,55,1/28/2025
+1712,Nokia N77,Nokia,66,32,67,12/29/2024
+1713,Ulefone Armor 7E,Ulefone,41,83,97,12/24/2024
+1714,Motorola Moto G6,Motorola,65,35,28,12/8/2024
+1715,alcatel Idol 2,alcatel,86,49,4,10/29/2024
+1716,Sagem MY X-3,Sagem,57,32,2,3/20/2024
+1717,Spice Smart Flo 359 (Mi-359),Spice,78,89,15,4/13/2024
+1718,Sony Xperia X Compact,Sony,87,52,2,3/20/2024
+1719,i-mate SPJAS,i-mate,93,11,76,11/8/2024
+1720,Ulefone Armor X3,Ulefone,71,54,30,1/13/2025
+1721,Bird D736,Bird,5,55,62,12/28/2024
+1722,i-mate PDA2,i-mate,54,99,42,6/24/2024
+1723,alcatel 1T 10,alcatel,72,42,77,1/6/2025
+1724,Philips W626,Philips,52,6,81,3/13/2024
+1725,Huawei Ascend Mate2 4G,Huawei,76,98,56,10/10/2024
+1726,Samsung T109,Samsung,72,88,57,7/27/2024
+1727,Gionee S12,Gionee,97,48,5,4/11/2024
+1728,Philips 766,Philips,84,93,23,4/11/2024
+1729,Micromax Funbook 3G P600,Micromax,23,59,3,8/28/2024
+1730,Lenovo Z6,Lenovo,95,19,44,4/14/2024
+1731,Samsung Galaxy S II LTE i727R,Samsung,42,7,64,5/3/2024
+1732,Wiko Pulp 4G,Wiko,34,39,95,1/26/2025
+1733,Samsung Gear 2 Neo,Samsung,76,42,55,5/31/2024
+1734,Honor View30,Honor,78,60,48,11/21/2024
+1735,Gigabyte g-YoYo,Gigabyte,39,39,15,12/27/2024
+1736,Honor 9X,Honor,93,71,36,1/27/2025
+1737,Vodafone Smart first 6,Vodafone,60,8,66,7/18/2024
+1738,Samsung Z600,Samsung,14,25,31,9/27/2024
+1739,BlackBerry Curve 9320,BlackBerry,25,15,31,8/26/2024
+1740,alcatel OT-103,alcatel,44,43,4,5/7/2024
+1741,LG GW520,LG,57,41,7,11/15/2024
+1742,Honor 7,Honor,58,53,67,4/17/2024
+1743,Micromax A80 ,Micromax,88,99,90,7/22/2024
+1744,Oppo A53s,Oppo,7,4,58,10/23/2024
+1745,Gigabyte GSmart Classic,Gigabyte,13,68,62,12/15/2024
+1746,Samsung Galaxy Y Pro B5510,Samsung,13,46,79,7/12/2024
+1747,Pantech P4000,Pantech,92,39,91,6/6/2024
+1748,vivo V5s,vivo,48,62,23,8/17/2024
+1749,Samsung Galaxy Note10,Samsung,71,79,4,3/27/2024
+1750,Philips 859,Philips,82,3,31,11/12/2024
+1751,alcatel Idol 4,alcatel,88,97,44,12/8/2024
+1752,Huawei G7010,Huawei,52,13,53,2/21/2024
+1753,Samsung S6700,Samsung,30,92,93,9/11/2024
+1754,Celkon C909,Celkon,15,67,81,8/25/2024
+1755,Samsung Galaxy Tab A7 10.4 (2020),Samsung,34,26,17,12/13/2024
+1756,Wiko Lenny3 Max,Wiko,8,62,26,9/15/2024
+1757,Honor 8 Pro,Honor,98,32,35,10/12/2024
+1758,Blackview P6000,Blackview,52,4,29,3/18/2024
+1759,Panasonic X66,Panasonic,18,89,2,12/13/2024
+1760,Honor Pad 5 10.1,Honor,72,44,42,3/8/2024
+1761,Samsung Galaxy J3 (2016),Samsung,99,17,59,9/7/2024
+1762,BlackBerry Z30,BlackBerry,64,94,77,9/7/2024
+1763,Lenovo Yoga Tablet 10 HD+,Lenovo,5,75,46,8/8/2024
+1764,Motorola V295,Motorola,90,10,53,1/24/2025
+1765,Realme Narzo 20 Pro,Realme,32,66,77,3/10/2024
+1766,verykool T7440 Kolorpad II,verykool,17,65,88,6/4/2024
+1767,Samsung Galaxy S10 5G,Samsung,23,77,50,5/7/2024
+1768,Asus Zenfone Max Plus (M2) ZB634KL,Asus,45,8,15,1/19/2025
+1769,LG GB110,LG,53,93,1,7/28/2024
+1770,Wiko U Feel Prime,Wiko,52,48,81,7/18/2024
+1771,Samsung P940,Samsung,22,19,13,7/24/2024
+1772,Asus PadFone Infinity 2,Asus,14,45,66,7/20/2024
+1773,T-Mobile myTouch Q 2,T-Mobile,55,99,67,9/12/2024
+1774,Nokia 105 Dual SIM (2015),Nokia,22,61,89,10/23/2024
+1775,NEC e122,NEC,49,1,87,3/9/2024
+1776,Philips 191,Philips,17,29,48,9/4/2024
+1777,BLU Kick,BLU,21,13,31,9/25/2024
+1778,Oppo A53 5G,Oppo,89,33,77,4/12/2024
+1779,Prestigio MultiPad 7.0 HD,Prestigio,27,36,43,4/25/2024
+1780,Wiko Ufeel fab,Wiko,76,28,97,12/25/2024
+1781,Karbonn S7 Titanium,Karbonn,68,54,9,3/22/2024
+1782,Meizu PRO 5,Meizu,75,45,38,1/7/2025
+1783,QMobile M800,QMobile,20,48,95,3/7/2024
+1784,LG G Pad X 8.0,LG,63,26,90,7/1/2024
+1785,Oppo U705T Ulike 2,Oppo,36,9,79,7/11/2024
+1786,Apple iPad Air 2,Apple,17,91,35,9/11/2024
+1787,Pantech G800,Pantech,74,84,31,10/6/2024
+1788,LG Optimus L9 P769,LG,84,22,59,6/13/2024
+1789,NEC N150,NEC,3,15,41,3/20/2024
+1790,LG SU920,LG,46,34,59,10/1/2024
+1791,Nokia 6310,Nokia,80,91,98,2/27/2024
+1792,Huawei U8850 Vision,Huawei,76,3,3,12/18/2024
+1793,Lenovo S5000,Lenovo,46,23,55,4/24/2024
+1794,Samsung Galaxy A7,Samsung,95,85,100,1/9/2025
+1795,LG US760 Genesis,LG,34,21,76,8/14/2024
+1796,Oppo Find X2 Pro,Oppo,54,50,61,11/18/2024
+1797,O2 XDA Zinc,O2,35,96,13,9/25/2024
+1798,LG GD880 Mini,LG,64,28,55,7/27/2024
+1799,Samsung Galaxy S20+ 5G,Samsung,26,96,65,1/25/2025
+1800,Wiko Rainbow,Wiko,99,48,58,5/22/2024
+1801,Samsung E830,Samsung,97,96,14,8/10/2024
+1802,Eten glofiish M700,Eten,69,78,66,7/7/2024
+1803,Samsung Xcover 550,Samsung,45,84,38,7/25/2024
+1804,Samsung Galaxy Nexus i515,Samsung,7,60,74,9/26/2024
+1805,Haier L8,Haier,90,62,78,11/8/2024
+1806,Wiko Rainbow 4G,Wiko,20,56,20,8/14/2024
+1807,Tecno Camon CM,Tecno,44,69,45,12/2/2024
+1808,LG KF700,LG,40,91,36,3/10/2024
+1809,Ericsson GA 318,Ericsson,62,5,31,8/16/2024
+1810,HP iPAQ h6315,HP,36,25,20,10/12/2024
+1811,Energizer Hardcase H242S,Energizer,6,5,65,4/17/2024
+1812,Asus Zenpad Z10 ZT500KL,Asus,57,39,51,8/28/2024
+1813,alcatel OT 311,alcatel,100,9,29,10/17/2024
+1814,Honor Pad 6,Honor,35,37,22,2/7/2025
+1815,Samsung C3322,Samsung,33,36,13,8/13/2024
+1816,Samsung E200 ECO,Samsung,69,55,8,8/9/2024
+1817,Lava P7+,Lava,17,78,14,1/6/2025
+1818,Samsung E330,Samsung,99,44,22,6/4/2024
+1819,Philips 692,Philips,45,85,36,8/18/2024
+1820,Samsung Galaxy Ace 2 I8160,Samsung,55,62,29,8/8/2024
+1821,Samsung P7500 Galaxy Tab 10.1 3G,Samsung,73,22,70,1/18/2025
+1822,Meizu 16Xs,Meizu,79,62,59,8/14/2024
+1823,LG KT770,LG,16,89,90,6/27/2024
+1824,Plum Coach Plus II,Plum,66,3,99,5/17/2024
+1825,Nokia C6-01,Nokia,27,93,26,8/26/2024
+1826,alcatel Hero,alcatel,43,50,26,2/3/2025
+1827,BLU Studio C Mini,BLU,62,34,62,6/3/2024
+1828,Oppo Ace2,Oppo,40,18,93,1/15/2025
+1829,Nokia 6120 classic,Nokia,64,12,51,4/21/2024
+1830,LG Stylus 3,LG,15,22,100,11/24/2024
+1831,Philips W8568,Philips,3,30,6,11/1/2024
+1832,Motorola FIRE XT,Motorola,93,92,43,11/11/2024
+1833,Lenovo A820,Lenovo,14,1,54,10/7/2024
+1834,Huawei nova 5i Pro,Huawei,64,24,68,3/8/2024
+1835,Huawei U8800 IDEOS X5,Huawei,95,50,91,12/17/2024
+1836,alcatel OT-918D,alcatel,40,29,87,12/16/2024
+1837,Celkon C6,Celkon,100,34,77,6/12/2024
+1838,ZTE Blade A460,ZTE,47,16,63,2/25/2024
+1839,Lenovo A536,Lenovo,50,68,26,6/16/2024
+1840,Motorola E680i,Motorola,77,61,38,9/9/2024
+1841,BQ Aquaris X2 Pro,BQ,64,88,11,9/20/2024
+1842,Philips W3500,Philips,47,37,2,9/3/2024
+1843,Oppo R815T Clover,Oppo,36,43,28,8/29/2024
+1844,LG GD910,LG,38,93,29,5/12/2024
+1845,verykool R800,verykool,44,36,88,6/8/2024
+1846,Motorola One Fusion+,Motorola,53,74,74,3/20/2024
+1847,Samsung Galaxy Tab 3 Lite 7.0 VE,Samsung,75,91,89,7/3/2024
+1848,Allview X4 Soul Vision,Allview,67,99,96,3/24/2024
+1849,alcatel Roadsign,alcatel,83,27,49,6/15/2024
+1850,LG KT520,LG,29,77,30,4/25/2024
+1851,BLU Grand M2,BLU,4,5,46,6/1/2024
+1852,Samsung W960 AMOLED 3D,Samsung,99,6,19,8/22/2024
+1853,Chea 208,Chea,43,96,58,9/28/2024
+1854,Motorola V60i,Motorola,86,56,73,11/27/2024
+1855,Samsung S3030 Tobi,Samsung,46,19,63,12/31/2024
+1856,Qtek S110,Qtek,3,4,49,5/25/2024
+1857,BlackBerry Curve 3G 9300,BlackBerry,24,19,16,8/5/2024
+1858,Philips Xenium 9@9s,Philips,52,78,12,12/26/2024
+1859,Plum Optimax 12,Plum,86,83,68,11/11/2024
+1860,Intex Aqua Craze,Intex,52,88,51,8/30/2024
+1861,Benefon TWIG Discovery Pro,Benefon,40,87,8,2/25/2024
+1862,Lenovo Vibe S1 Lite,Lenovo,76,68,6,10/22/2024
+1863,Pantech Breeze IV,Pantech,49,42,79,4/14/2024
+1864,ZTE Blade A460,ZTE,31,84,31,7/11/2024
+1865,Lava V2 s,Lava,60,18,45,4/12/2024
+1866,Samsung E2210B,Samsung,61,63,3,10/4/2024
+1867,Infinix Smart HD 2021,Infinix,24,14,91,10/23/2024
+1868,Amoi F320,Amoi,6,39,18,10/13/2024
+1869,Samsung C3750,Samsung,25,74,32,5/21/2024
+1870,i-mate JAMA 101,i-mate,69,91,56,9/8/2024
+1871,Oppo R9s,Oppo,59,82,90,8/18/2024
+1872,Tecno Camon 16,Tecno,99,35,56,9/25/2024
+1873,Panasonic P66,Panasonic,22,40,70,11/25/2024
+1874,Sony Xperia C4,Sony,11,72,80,6/3/2024
+1875,Pantech Breeze IV,Pantech,29,34,31,4/1/2024
+1876,Nokia C2 Tennen,Nokia,34,19,48,3/22/2024
+1877,Samsung Galaxy Ace 4 LTE G313,Samsung,94,64,52,4/23/2024
+1878,Bird D515,Bird,83,84,76,2/22/2024
+1879,LG Optimus Q2 LU6500,LG,13,58,4,11/13/2024
+1880,HP iPAQ 910c,HP,8,77,50,4/10/2024
+1881,Samsung Galaxy S5 Plus,Samsung,28,58,42,10/29/2024
+1882,Lenovo ThinkPad,Lenovo,90,19,9,1/31/2025
+1883,Nokia 7280,Nokia,67,59,1,12/29/2024
+1884,Haier M2000,Haier,10,58,62,9/20/2024
+1885,Asus M303,Asus,29,63,100,11/2/2024
+1886,Amoi M33,Amoi,85,36,96,9/21/2024
+1887,Samsung M6710 Beat DISC,Samsung,94,41,99,1/28/2025
+1888,Celkon C770 Dj,Celkon,68,49,85,7/23/2024
+1889,HTC One A9,HTC,17,73,96,9/6/2024
+1890,Huawei Mate 20 RS Porsche Design,Huawei,15,43,85,4/27/2024
+1891,Samsung Galaxy Mega 6.3 I9200,Samsung,80,75,50,2/4/2025
+1892,Wiko Rainbow Jam 4G,Wiko,41,76,15,8/29/2024
+1893,alcatel OT-203,alcatel,89,13,86,12/6/2024
+1894,Icemobile Prime 5.0 Plus,Icemobile,82,43,68,2/17/2024
+1895,ZTE R228,ZTE,52,18,55,9/4/2024
+1896,Nokia 8800 Sirocco,Nokia,31,75,46,3/11/2024
+1897,Bosch 909 Dual S,Bosch,68,59,41,6/27/2024
+1898,Nokia Lumia 710 T-Mobile,Nokia,40,31,47,8/13/2024
+1899,TCL 10L,TCL,10,58,25,4/21/2024
+1900,Samsung S9402 Ego,Samsung,91,18,63,6/26/2024
+1901,Allview X2 Soul Style,Allview,19,79,38,12/28/2024
+1902,HTC Gratia,HTC,40,72,58,8/26/2024
+1903,Spice N-300,Spice,82,11,63,6/2/2024
+1904,Acer Liquid E2,Acer,66,73,27,6/22/2024
+1905,verykool s5007 Lotus Plus,verykool,39,41,83,2/1/2025
+1906,Allview Viva H10 LTE,Allview,71,51,59,2/7/2025
+1907,Motorola Moto X Style,Motorola,14,26,30,4/24/2024
+1908,Motorola One Vision Plus,Motorola,83,30,53,2/28/2024
+1909,LG Trax CU575,LG,28,12,80,8/8/2024
+1910,BQ Aquaris X5,BQ,90,96,95,12/28/2024
+1911,BLU Life Pure,BLU,9,86,62,11/24/2024
+1912,Samsung Galaxy Note20 Ultra 5G,Samsung,92,11,39,10/19/2024
+1913,Honor 6A (Pro),Honor,51,13,34,1/16/2025
+1914,alcatel Pixi 3 (10),alcatel,50,87,86,1/28/2025
+1915,Gigabyte GSmart Mika M2,Gigabyte,90,23,31,1/24/2025
+1916,Philips X525,Philips,60,73,96,10/16/2024
+1917,Motorola Moto 360 (1st gen),Motorola,88,4,24,7/8/2024
+1918,Karbonn K309 Boombastic,Karbonn,85,25,81,10/23/2024
+1919,Lenovo Tab 7,Lenovo,36,71,10,9/1/2024
+1920,Asus Z810,Asus,58,34,22,10/31/2024
+1921,Lenovo Tab P11 Pro,Lenovo,46,2,71,4/6/2024
+1922,Nokia 6350,Nokia,12,32,80,4/10/2024
+1923,ZTE nubia Z17 miniS,ZTE,70,11,13,2/15/2024
+1924,LG E2,LG,30,77,96,2/24/2024
+1925,Orange Dallas,Orange,64,26,67,1/1/2025
+1926,alcatel OT-E265,alcatel,46,2,17,5/5/2024
+1927,Philips X216,Philips,22,21,69,6/20/2024
+1928,alcatel Pop C2,alcatel,25,54,76,7/8/2024
+1929,Siemens ME75,Siemens,13,61,50,3/12/2024
+1930,Lenovo Tab3 10,Lenovo,30,71,96,2/9/2025
+1931,LG A165,LG,28,50,84,12/20/2024
+1932,Samsung P910,Samsung,41,32,18,2/18/2024
+1933,Gigabyte GSmart i300,Gigabyte,30,59,96,8/31/2024
+1934,Lenovo A916,Lenovo,98,35,12,2/10/2025
+1935,Samsung S5233T,Samsung,97,54,8,11/14/2024
+1936,alcatel Pixi 3 (8) 3G,alcatel,22,78,17,1/8/2025
+1937,XOLO Play,XOLO,17,7,19,3/29/2024
+1938,Sharp MS1,Sharp,12,62,51,5/24/2024
+1939,Maxon MX-A30,Maxon,33,48,7,2/18/2024
+1940,Telit G40,Telit,26,28,38,4/17/2024
+1941,Motorola C261,Motorola,40,12,29,7/27/2024
+1942,Oppo Mirror 5s,Oppo,4,23,46,3/7/2024
+1943,HTC U Ultra,HTC,15,5,78,3/2/2024
+1944,alcatel One Touch Fire,alcatel,41,5,18,12/8/2024
+1945,ZTE Blade III,ZTE,1,33,67,7/1/2024
+1946,Motorola V360,Motorola,91,1,42,4/26/2024
+1947,ZTE Blade Vec 3G,ZTE,49,26,71,4/10/2024
+1948,Palm Pixi,Palm,3,96,86,5/29/2024
+1949,alcatel OT COM,alcatel,32,18,71,10/31/2024
+1950,Xiaomi Mi 10 Ultra,Xiaomi,52,64,30,12/2/2024
+1951,BenQ P31,BenQ,50,22,44,1/29/2025
+1952,LG Flick T320,LG,13,21,40,8/15/2024
+1953,Huawei Ascend G730,Huawei,12,29,53,7/20/2024
+1954,Nokia 2730 classic,Nokia,81,85,1,9/28/2024
+1955,Celkon A355,Celkon,43,27,33,10/5/2024
+1956,Lava Iris Atom 2,Lava,100,57,42,12/1/2024
+1957,Motorola ROKR Z6,Motorola,5,61,97,10/22/2024
+1958,vivo X9s,vivo,47,29,1,7/31/2024
+1959,verykool i705,verykool,95,34,6,10/26/2024
+1960,Asus Memo Pad 8 ME181C,Asus,89,91,85,7/3/2024
+1961,Samsung A837 Rugby,Samsung,13,34,50,3/15/2024
+1962,Sony Xperia M Ultra,Sony,13,8,65,11/7/2024
+1963,Plum Ten 3G,Plum,36,24,8,2/16/2024
+1964,Samsung Z100,Samsung,20,78,43,10/21/2024
+1965,ZTE Light Tab 300,ZTE,66,45,20,9/14/2024
+1966,Sendo K1,Sendo,83,97,48,11/27/2024
+1967,Dell Streak 10 Pro,Dell,98,55,52,5/8/2024
+1968,Samsung R210,Samsung,78,32,40,10/3/2024
+1969,Innostream INNO 100,Innostream,96,6,28,11/16/2024
+1970,HTC Desire 20+,HTC,31,59,67,11/22/2024
+1971,Xiaomi Mi 11 Lite,Xiaomi,84,59,48,10/10/2024
+1972,Wiko Lenny4 Plus,Wiko,8,47,17,11/2/2024
+1973,LG BL40 New Chocolate,LG,27,8,24,12/4/2024
+1974,WND Wind DUO 2100,WND,71,85,76,7/5/2024
+1975,Samsung Galaxy Tab 3 10.1 P5220,Samsung,7,46,73,1/4/2025
+1976,Samsung J610,Samsung,8,54,3,2/14/2024
+1977,Philips M600,Philips,77,36,34,8/7/2024
+1978,HTC One SV,HTC,39,60,44,3/8/2024
+1979,Celkon CT 2,Celkon,100,24,91,8/15/2024
+1980,Gionee Marathon M5,Gionee,36,65,62,4/20/2024
+1981,Vodafone 340,Vodafone,35,29,60,6/22/2024
+1982,Motorola DROID 4 XT894,Motorola,40,23,77,2/20/2024
+1983,Samsung T109,Samsung,87,7,99,9/6/2024
+1984,BLU Selfie,BLU,85,58,74,6/21/2024
+1985,Nokia 1.3,Nokia,26,66,88,2/23/2024
+1986,Acer Liquid E600,Acer,42,30,16,2/3/2025
+1987,Huawei U8350 Boulder,Huawei,50,65,5,1/21/2025
+1988,Samsung I9000 Galaxy S,Samsung,21,86,37,8/26/2024
+1989,Palm Pre 2,Palm,11,43,78,9/10/2024
+1990,Prestigio MultiPhone 4500 Duo,Prestigio,10,22,57,10/28/2024
+1991,Xiaomi Mi Note 10,Xiaomi,77,8,75,7/15/2024
+1992,Icemobile Tropical,Icemobile,6,4,31,11/21/2024
+1993,Samsung A167,Samsung,29,100,5,1/5/2025
+1994,Samsung Galaxy M02s,Samsung,74,40,7,2/12/2025
+1995,Oppo A7x,Oppo,56,79,61,8/15/2024
+1996,Honor Pad 5 10.1,Honor,82,34,14,1/18/2025
+1997,Micromax X270,Micromax,64,64,16,2/2/2025
+1998,Pantech Link II,Pantech,62,77,89,2/8/2025
+1999,Tecno Camon CX Air,Tecno,67,61,58,11/5/2024
+2000,Samsung Galaxy J4,Samsung,63,26,64,9/15/2024
