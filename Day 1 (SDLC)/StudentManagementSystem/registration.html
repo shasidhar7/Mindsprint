@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="ISO-8859-1" />
+    <title>REGISTER</title>
+    <link rel="stylesheet" type="text/css" href="registration.css" />
+</head>
+<body>
+    <div class="form-container">
+        <h1 id="main-heading">Student Management Portal</h1>
+        <form id="registrationForm">
+            <h2 id="reg-heading">REGISTRATION</h2>
+
+            <div class="container">
+                <label class="text">Username</label>
+                <input type="text" name="username" class="input" required placeholder="username" />
+                <br /><br />
+
+                <label class="text">Email</label>
+                <input type="email" name="email" class="input" required placeholder="name@domain.com" />
+                <br /><br />
+
+                <label class="text">Password</label>
+                <input type="password" name="password" class="input" required placeholder="password" />
+                <br /><br />
+
+                <label class="text">Gender</label> <br>
+                <div class="radio-group">
+                    <input type="radio" name="gender" value="male" />
+                    <label class="label-text"> Male </label>
+                    <input type="radio" name="gender" value="female" />
+                    <label class="label-text"> Female </label>
+                    <input type="radio" name="gender" value="others" />
+                    <label class="label-text"> Others </label>
+                </div>
+                <br /><br />
+
+                <label class="text">Role</label>
+                <div class="radio-group">
+                    <input type="radio" name="role" value="admin" />
+                    <label class="label-text"> Admin </label>
+                    <input type="radio" name="role" value="student" />
+                    <label class="label-text"> Student </label>
+                </div>
+                <br /><br />
+            </div>
+            <input type="submit" value="Register" class="btn" />
+            <br /><br />
+
+            <p class="label-text">
+                Already have an Account? &nbsp;<a href="index.html">Login</a>
+            </p>
+        </form>
+    </div>
+
+    <script src="registration.js"></script>
+
+</body>
+</html>
